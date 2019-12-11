@@ -1,4 +1,4 @@
-name: Handle Issue Comment
+name: Filter out the coin
 
 on:
   issue_comment:
